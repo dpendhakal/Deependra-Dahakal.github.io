@@ -1,51 +1,59 @@
-## Developer Portfolio Landing Page Template
+## Portfolio Projects
 
-### Introduction
+---
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+### Data Science Projects.
 
-<img src="images/demo.gif?raw=true"/>
+[Project 1: Fake News Detection using Machine Learning](https://github.com/dpendhakal/Deependra-Dhakal.github.io/blob/main/Fake_News_Detection.ipynb)
 
-### Installation
+The project was to investigate and check the performances of five different models (Random Forest Classifier, Logistic Regression, Passive Aggressive Classifier Algorithm, Support Vector Classification, Decision Tree Classification) on the dataset containing 7796 news articles labelled as ‘Fake’ and ‘Real’. 
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+[Project 2: Customer Segmentation](/pdf/sample_presentation.pdf)
 
-### Markdown
+The purpose of the project was to identify the different customer segments to focus on for profit maximization.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+---
+[Project 3: Movie Recommender System.](http://example.com/)
 
-# Header 1
-## Header 2
-### Header 3
+The purpose of the project was to create a movie recommending system using content based filtering and collaborative filtering.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+---
+[Project 4: Data Presentation and Visualization.](http://example.com/)
 
-**Bold** and _Italic_ and `Code` text
+Worked on 5 small data visualization projects with the given scenario and data. Preprocessed data for analysis, performed exploratory data analysis, transformations, and summary statistics. Created dashboard using PowerBI and Tableau outlining the facts, stats, and the trends. Prepared an executive summary summarizing the findings and telling the story of what was found using PowerPoint. Designed media campaigns for external audiences: blog post, infographic, and a short video clip.
 
-[Link](url) and ![Image](src)
-```
+---
+[Project 5: Predicting Credit Card Fraud](http://example.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Identified the right source of data and gained insights through Exploratory Data Analysis. Selected appropriate models and model specifications and applied the respective methods to enhance data-driven decision making related to the business problem. Presented intermediate results of the project for evaluation to discuss the issues, challenges encountered during the work, and plans to complete the analysis.
 
-### Roadmap
+---
+[Project 6: Data Mining Project ](http://example.com/)
 
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
+Worked with the King County Housing Prices data sourced from Kaggle. Preformed graphical analysis explained/analyzed the information provided by each graph. Dropped any features that are not useful for the model building, addressed missing data issues, built new features needed for the model. Built and evaluated the most appropriate model. Accuracy Score, AUC ROC, and Cross Validation are the metrics used for model evaluation. Performed hyperparameter tuning of the Gradient Boosting Regression (GBR) model.
 
-### References
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+---
+[Project 7: Data Wrangling Project](http://example.com/)
+
+Worked on the English Premier League data for season 2020/2021. Identified three data sources (CSV/Excel/PDF, JSON file, and API). Performed data transformations, formatted data into readable format, identified outliers and bad data, dealt with missing values and duplicates, fixed casing, or inconsistent values, and conducted Fuzzy Matching. Loaded each dataset into SQLite as an individual table and then joined dataset together in Python into single dataset. Created different visualization of the merged data using Matplotlib, Seaborn and Power BI.
+
+
+---
+[Project 8: Exploratory Data Analysis](http://example.com/)
+
+Performed exploratory data analysis, transformations, and summary statistics on World Happiness survey data via both R and Python. Preprocessed data for analysis. Handled missing values, data anomalies & special characters and prepared insightful visualization and descriptive statistics. Compared different scenarios using PMF, created CDF for the variables used. Formulated hypothesis, analyzed data, summarized the findings, and presented the results among peers.
+
+---
+
+
+
+
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
