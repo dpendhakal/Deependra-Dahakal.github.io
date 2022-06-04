@@ -4,26 +4,31 @@
 
 ### Data Science Projects.
 
-[Project 1 Title](/sample_page)
+[Project 1: Fake News Detection using Machine Learning](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2: Customer Segmentation](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3: Movie Recommender System.](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 4: Data Presentation and Visualization.](http://example.com/)
 
-### Category Name 2
+---
+[Project 5: Predicting Credit Card Fraud](http://example.com/)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+[Project 6: Data Mining Project ](http://example.com/)
+
+---
+[Project 7: Data Wrangling Project](http://example.com/)
+
+---
+[Project 8: Exploratory Data Analysis](http://example.com/)
 
 ---
 
