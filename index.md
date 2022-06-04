@@ -8,19 +8,19 @@
 
 The project was to investigate and check the performances of five different models (Random Forest Classifier, Logistic Regression, Passive Aggressive Classifier Algorithm, Support Vector Classification, Decision Tree Classification) on the dataset containing 7796 news articles labelled as ‘Fake’ and ‘Real’. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 2: Customer Segmentation](/pdf/sample_presentation.pdf)
 
 The purpose of the project was to identify the different customer segments to focus on for profit maximization.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 3: Movie Recommender System.](http://example.com/)
 
 The purpose of the project was to create a movie recommending system using content based filtering and collaborative filtering.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 4: Data Presentation and Visualization.](http://example.com/)
