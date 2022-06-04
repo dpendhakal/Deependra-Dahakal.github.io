@@ -4,7 +4,7 @@
 
 ### Data Science Projects.
 
-[Project 1: Fake News Detection using Machine Learning]([https://github.com/dpendhakal/ThinkStats2/tree/master/book](https://github.com/dpendhakal/Deependra-Dhakal.github.io/blob/main/Fake_News_Detection.ipynb))
+[Project 1: Fake News Detection using Machine Learning](https://github.com/dpendhakal/Deependra-Dhakal.github.io/blob/main/Fake_News_Detection.ipynb)
 
 The project was to investigate and check the performances of five different models (Random Forest Classifier, Logistic Regression, Passive Aggressive Classifier Algorithm, Support Vector Classification, Decision Tree Classification) on the dataset containing 7796 news articles labelled as ‘Fake’ and ‘Real’. 
 
